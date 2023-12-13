@@ -1,3 +1,7 @@
 # .gitignore
 
 secrets.json
+
+desktop.ini
+
+.ipynb_checkpoints
